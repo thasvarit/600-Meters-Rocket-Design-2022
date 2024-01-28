@@ -20,3 +20,13 @@ During the presentation before the launch, the committees weren't sure about the
 In the end, my rocket reached 577 m, which didn't match the simulation result, but it was still the highest. The result of all this work is that our rocket got the Best Aerodynamics Award from the Thailand CanSat Rocket Competition 2022.
 
 This GitHub page details the steps we took to optimize the rocket. We're working closely with Mr. Phachara Phumiprathet and Mr. Wisit Wipudgasamsook to give our rocket a strong chance in the competition.
+
+The images provided were captured by Vivatsathorn Thitasirivit, Nattakit Kwankitpisarn, Thanyapisit Kangsathien, Arkkanirut Pandej, and were sourced from a Facebook post by Dr. Rattapol Sakornsin.
+![](images/012824_CanSat-Recovery_TCRC2022.JPG)
+![](images/012824_Composite-Sandwich-Explain-by-Dr.Rattapol-Sakornsin_TCRC2022.jpg)
+![](images/012824_Conference_TCRC2022.JPG)
+![](images/012824_Nuage-Team-Member_TCRC2022.jpg)
+![](images/012824_Rocket-Launch-1_TCRC2022.JPG)
+![](images/012824_Rocket-Launch-2_TCRC2022.JPG)
+![](images/012824_Rocket-Launch-3_TCRC2022.JPG)
+![](images/012824_Rocket-Launch-4_TCRC2022.JPG)
