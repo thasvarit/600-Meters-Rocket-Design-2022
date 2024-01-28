@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project's success depends on Mr. Phachara Phumiprathet's help in setting a new goal—winning an aerodynamics award in the upcoming competition. The initial goals were too tough, so our team adjusting them for better chances.
+The project's success hinges on Mr. Phachara Phumiprathet's help in setting a new goal: winning an aerodynamics award in the Thailand CANSAT-ROCKET Competition 2022. Recognizing the initial goals were too challenging, our team is adjusting them for better chances. My responsibility is to design the rocket for our team, "Nuage," in this competition.
 
 ## Methodology
 
