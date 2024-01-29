@@ -15,7 +15,7 @@ Wisit Wipudgasamsook also recommended striking the right balance between static 
 
 ## Conclusion 
 
-During the presentation before the launch, the committees weren't sure about the simulation results showing an altitude of 652 m. They thought it was too high since the given rocket from DTI was supposed to reach a maximum of 600 m. I double-checked everything in my simulations but found no issues.
+During the presentation before the launch, the committees weren't sure about the simulation results showing an altitude of 652 m. They thought it was too high since the given rocket motor from DTI was supposed to reach a maximum of 600 m. I double-checked everything in my simulations but found no issues.
 
 In the end, my rocket reached 577 m, which didn't match the simulation result, but it was still the highest. The result of all this work is that our rocket got the Best Aerodynamics Award from the Thailand CanSat Rocket Competition 2022.
 
