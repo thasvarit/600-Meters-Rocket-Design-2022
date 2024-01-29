@@ -8,7 +8,7 @@ The project's success hinges on Phachara Phumiprathet's help in setting a new go
 
 I started using OpenRocket to enhance the rocket's performance. I aimed to increase its altitude by tweaking the nose cone's shape and length. Strangely, OpenRocket suggested a short, blunt nose cone. I was skeptical, but when I double-checked with Aerolab, the results matched. It seemed strange, going against what we knew about physics.
 
-Digging deeper, I found that pressure drag was a big factor. It indicated that a shorter nose cone, up to 12 cm, would work better. So, we went with a von Karman-style nose cone of that length to reduce resistance.
+Digging deeper, I found pressure drag was a big factor. So, we went with a von Kármán-style nose cone of that length to lower pressure drag without adding the weight that comes with a longer nose cone.
 
 Wisit Wipudgasamsook also recommended striking the right balance between static margin and altitude, so I get a 2 cm tip chord length, influencing the design of the fins. Adhering to the competition's requirement of 4 fins, my design decisions were not only in compliance but also geared towards ensuring the rocket's balance and optimal performance.
 
