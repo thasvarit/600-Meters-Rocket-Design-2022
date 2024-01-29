@@ -21,7 +21,7 @@ Following my design process, Shinakrit Laokittichai proceeded to assemble the ro
 
 During the presentation before the launch, the committees weren't sure about the simulation results showing an altitude of 652 m. They thought it was too high since the given rocket motor from DTI was supposed to reach a maximum of 600 m. I double-checked everything in my simulations but found no issues.
 
-In the end, my rocket reached 577 meters, slightly off from the expected result by 12%. Still, it outperformed other teams, whose rockets averaged 391 meters. The result of all this work is that our rocket got the Best Aerodynamics Award from the Thailand CANSAT-ROCKET Competition 2022.
+In the end, my rocket reached 577 meters, slightly off from the expected result by 12%. Still, it outperformed other teams, whose rockets had an average altitude of 391 meters with a standard deviation of 120. The result of all this work is that our rocket got the Best Aerodynamics Award from the Thailand CANSAT-ROCKET Competition 2022.
 
 ## Citation
 
