@@ -2,7 +2,9 @@
 
 ## Introduction
 
-The project's success hinges on Phachara Phumiprathet's help in setting a new goal: winning an aerodynamics award in the Thailand CANSAT-ROCKET Competition 2022. Recognizing the initial goals were too challenging, our team is adjusting them for better chances. My responsibility is to design the rocket for our team, "Nuage," in this competition.
+The Thailand CANSANT-ROCKET Competition, organized by the National Science Museum (NSM) and the Defence Technology Institute (DTI), invites high school students to design and test CanSats and rockets. For the rocket part, students don't have to create their own rocket motor, with the total impulse of 255 Ns, as DTI has it covered.
+
+This GitHub page displays our rocket project for Team Nuage, the winner of the Aerodynamics Award at the Thailand CANSAT-ROCKET Competition 2022. Thanks to Phachara Phumiprathet's guidance, we've set a more realistic goal within our time constraints. My role is to design the rocket for our team in this competition.
 
 ## Methodology
 
