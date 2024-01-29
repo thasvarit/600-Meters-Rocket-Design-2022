@@ -23,6 +23,13 @@ During the presentation before the launch, the committees weren't sure about the
 
 In the end, my rocket reached 577 m, which didn't match the simulation result (deviate 12%), but it was still the highest. The result of all this work is that our rocket got the Best Aerodynamics Award from the Thailand CanSat Rocket Competition 2022.
 
+## Citation
+
+[1] M. Ostaszewski, K. Dzierzek, Ł. Magnuszewski (2018). "Analysis of data collected during CanSat mission." In 2018 19th International Carpathian Control Conference (ICCC), Szilvasvarad, Hungary, pp. 1-4. DOI: [10.1109/CarpathianCC.2018.8399591](https://doi.org/10.1109/CarpathianCC.2018.8399591)
+
+[2] M.T. Abate, E. Anandapadmanaban, L. Bao, S. Challani, J. Gaughan, A. Jiang, A. Lingineni, A. Vora, C. Yang, D. Zhao, S.E. Zorn (2014). "Correlation between simulated, calculated, and measured model rocket flight."
+
+
 The images provided were captured by Vivatsathorn Thitasirivit, Nattakit Kwankitpisarn, Thanyapisit Kangsathien, Arkkanirut Pandej, and were sourced from a Facebook post by Dr. Rattapol Sakornsin.
 ![](images/012824_CanSat-Recovery_TCRC2022.JPG)
 ![](images/012824_Composite-Sandwich-Explain-by-Dr.Rattapol-Sakornsin_TCRC2022.jpg)
@@ -32,3 +39,5 @@ The images provided were captured by Vivatsathorn Thitasirivit, Nattakit Kwankit
 ![](images/012824_Rocket-Launch-2_TCRC2022.JPG)
 ![](images/012824_Rocket-Launch-3_TCRC2022.JPG)
 ![](images/012824_Rocket-Launch-4_TCRC2022.JPG)
+
+
