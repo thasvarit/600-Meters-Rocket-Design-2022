@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Thailand CANSANT-ROCKET Competition, organized by the National Science Museum (NSM) and the Defence Technology Institute (DTI), invites high school students to design and test CanSats and rockets. For the rocket part, students don't have to create their own rocket motor, with the total impulse of 255 Ns, as DTI has it covered.
+The [Thailand CANSANT-ROCKET Competition](https://www.facebook.com/p/CanSat-Rocket-Thailand-100038803825229/), organized by the National Science Museum (NSM) and the Defence Technology Institute (DTI), invites high school students to design and test CanSats and rockets. For the rocket part, students don't have to create their own rocket motor, with the total impulse of 255 Ns, as DTI has it covered.
 
 This GitHub page displays our rocket project for Team Nuage, the winner of the Aerodynamics Award at the Thailand CANSAT-ROCKET Competition 2022. Thanks to Phachara Phumiprathet's guidance, we've set a more realistic goal within our time constraints. My role is to design the rocket for our team in this competition.
 
