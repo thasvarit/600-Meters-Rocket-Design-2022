@@ -21,14 +21,17 @@ Following my design process, Shinakrit Laokittichai proceeded to assemble the ro
 
 During the presentation before the launch, the committees weren't sure about the simulation results showing an altitude of 652 m. They thought it was too high since the given rocket motor from DTI was supposed to reach a maximum of 600 m. I double-checked everything in my simulations but found no issues.
 
-In the end, my rocket reached 577 m, which didn't match the simulation result (deviate 12%), but it was still the highest. The result of all this work is that our rocket got the Best Aerodynamics Award from the Thailand CanSat Rocket Competition 2022.
+In the end, my rocket reached 577 meters, slightly off from the expected result by 12%. Still, it outperformed other teams, whose rockets averaged 391 meters. The result of all this work is that our rocket got the Best Aerodynamics Award from the Thailand CANSAT-ROCKET Competition 2022.
 
 ## Citation
 
-[1] M. Ostaszewski, K. Dzierzek, Ł. Magnuszewski (2018). "Analysis of data collected during CanSat mission." In 2018 19th International Carpathian Control Conference (ICCC), Szilvasvarad, Hungary, pp. 1-4. DOI: [10.1109/CarpathianCC.2018.8399591](https://doi.org/10.1109/CarpathianCC.2018.8399591)
+[1] Thitasirivit, Vivatsathorn & Ngamdeevilaisak, Bhavat & Vongbunsin, Chayakorn. (2018). Agricultural Exploration Assistant Satellite: Thailand CanSat Competition 2018 Preliminary Proposal. DOI: [10.13140/RG.2.2.11933.38882](https://doi.org/10.13140/RG.2.2.11933.38882)
 
-[2] M.T. Abate, E. Anandapadmanaban, L. Bao, S. Challani, J. Gaughan, A. Jiang, A. Lingineni, A. Vora, C. Yang, D. Zhao, S.E. Zorn (2014). "Correlation between simulated, calculated, and measured model rocket flight."
+[2] M. Ostaszewski, K. Dzierzek, Ł. Magnuszewski (2018). "Analysis of data collected during CanSat mission." In 2018 19th International Carpathian Control Conference (ICCC), Szilvasvarad, Hungary, pp. 1-4. DOI: [10.1109/CarpathianCC.2018.8399591](https://doi.org/10.1109/CarpathianCC.2018.8399591)
 
+[3] Abate, M. T., Anandapadmanaban, E., Bao, L., Challani, S., Gaughan, J., Jiang, A., ... Zorn, S. E. (2014). Correlation between simulated, calculated, and measured model rocket flight. Retrieved from https://www.semanticscholar.org/paper/CORRELATION-BETWEEN-SIMULATED-%2C-CALCULATED-%2C-AND-Abate-Anandapadmanaban/f1273cf8d5df09aa30bc7d80c9ef3b260b1a4f53
+
+[4] Crowell, G. A. (n.d.). The Descriptive Geometry of Nose Cone. Retrieved from https://www.scribd.com/doc/60921375/the-descriptive-geometry-of-nosecone
 
 The images provided were captured by Vivatsathorn Thitasirivit, Nattakit Kwankitpisarn, Thanyapisit Kangsathien, Arkkanirut Pandej, and were sourced from a Facebook post by Dr. Rattapol Sakornsin.
 ![](images/012824_CanSat-Recovery_TCRC2022.JPG)
