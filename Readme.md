@@ -6,7 +6,7 @@ The Thailand CANSANT-ROCKET Competition, organized by the National Science Museu
 
 This GitHub page displays our rocket project for Team Nuage, the winner of the Aerodynamics Award at the Thailand CANSAT-ROCKET Competition 2022. Thanks to Phachara Phumiprathet's guidance, we've set a more realistic goal within our time constraints. My role is to design the rocket for our team in this competition.
 
-## Methodology
+## Method
 
 I started using rocket optimization feature of OpenRocket to increase its altitude by tweaking the nose cone's shape and length. Strangely, OpenRocket suggested a short, blunt nose cone. I was skeptical, but when I double-checked with Aerolab, the results matched. It seemed strange, going against what we knew about physics.
 
@@ -17,7 +17,7 @@ Wisit Wipudgasamsook also recommended striking the right balance between static 
 Following my design process, Shinakrit Laokittichai proceeded to assemble the rocket components in preparation for launch.
 
 
-## Conclusion 
+## Outcome
 
 During the presentation before the launch, the committees weren't sure about the simulation results showing an altitude of 652 m. They thought it was too high since the given rocket motor from DTI was supposed to reach a maximum of 600 m. I double-checked everything in my simulations but found no issues.
 
